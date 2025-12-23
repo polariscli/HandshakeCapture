@@ -35,3 +35,6 @@ Each capture file contains:
 
 Just connect to the server with Lunar Client. The plugin automatically captures handshakes and logs everything to console and saves to JSON files.
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
