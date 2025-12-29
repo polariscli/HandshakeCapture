@@ -1,6 +1,6 @@
 name: HandshakeCapture
 main: org.afterlike.moonlight.handshake.HandshakeCapturePlugin
 version: 1.0.0
-author: Moonlight
+author: polaris
 api-version: 1.13
-description: Captures and logs Lunar Client handshake data
+description: Captures Apollo handshake data.
